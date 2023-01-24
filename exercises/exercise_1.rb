@@ -5,7 +5,6 @@ puts "----------"
 
 # Your code goes below here ...
 
-
 # p = Store.new
 # p.name = "Burnaby"
 # p.annual_revenue = 300000
