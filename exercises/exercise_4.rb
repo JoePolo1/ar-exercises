@@ -28,3 +28,5 @@ for store in @mens_stores
   puts store.name
   puts store.annual_revenue
 end
+
+@womens_stores = Store.where(womens_apparel: true, annual_revenue: ...1000000)
