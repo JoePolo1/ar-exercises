@@ -35,10 +35,10 @@ Go ahead and create some more employees using the create method. You can do this
 # end
 
 @store1.employees.create(first_name: "Big", last_name: "Papa", hourly_rate: 60)
-@store1.employees.create(first_name: "Bowser", last_name: "Burninator", hourly_rate: 999)
-@store1.employees.create(first_name: "Bubba", last_name: "Hotep", hourly_rate: 4)
+@store1.employees.create(first_name: "Bowser", last_name: "Burninator", hourly_rate: 199)
+@store1.employees.create(first_name: "Bubba", last_name: "Hotep", hourly_rate: 40)
 
-@store2.employees.create(first_name: "James", last_name:"Bond", hourly_rate: 007)
-@store2.employees.create(first_name: "Goku", last_name:"Strongbad", hourly_rate: 9001)
-@store2.employees.create(first_name: "Billy", last_name:"Timetripper", hourly_rate: 20)
+@store2.employees.create(first_name: "James", last_name:"Bond", hourly_rate: 47)
+@store2.employees.create(first_name: "Goku", last_name:"Strongbad", hourly_rate: 199)
+@store2.employees.create(first_name: "Billy", last_name:"Timetripper", hourly_rate: 40)
 @store2.employees.create(first_name: "Britney", last_name:"Spears", hourly_rate: 55)
